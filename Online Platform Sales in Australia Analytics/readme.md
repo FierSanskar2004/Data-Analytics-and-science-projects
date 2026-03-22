@@ -355,7 +355,7 @@ LIMIT 1;
   </tr>
   <tr>
     <td>Technology</td>
-    <td>—</td>
+    <td>609164.51</td>
   </tr>
 </table>
 
