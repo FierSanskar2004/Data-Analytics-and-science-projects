@@ -1,7 +1,9 @@
 # 🏟️ MLB 2022 Batting Data Analysis
 
 **Author:** Sanskar Shrivas
+
 **Date:** 06-03-2026
+
 **Tool:** PostgreSQL 18 | pgAdmin 4
 
 ---
