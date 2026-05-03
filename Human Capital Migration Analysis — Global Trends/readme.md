@@ -280,6 +280,7 @@ Scatter analysis reveals:
 ### 4) Outbound Mobility vs Immigration Ratio
 
 * Movement vs attraction comparison
+  
 ![Visual 6](./visuals/2.png)
 ---
 
